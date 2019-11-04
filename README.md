@@ -25,34 +25,34 @@ computers, Mac computers and Linux computers
 
 ## change directory 
 
- Go to your home directory (/home/[username]), no matter where you are located (all of these commands work):
--cd
--cd ~
--cd $HOME
--cd $home
+- Go to your home directory (/home/[username]), no matter where you are located (all of these commands work):
+- cd
+- cd ~
+- cd $HOME
+- cd $home
 
 ## Clearing text
--Clear the screen of the text (push the empty lines in front of you to back):
- -Ctrl+L # or  -clear
+- Clear the screen of the text (push the empty lines in front of you to back):
+- Ctrl+L # or  -clear
 
 ## List files 
 - List files and directories of the current directory:
--ls
- -To list also hidden files:
--ls -a
- -To list more info about the files:
--ls -l
--To list files starting with "blen" in the directory you're in:
--ls blen*
- -To list all the .jpg files in the directory you're in:
--ls *.jpg
+- ls
+- To list also hidden files:
+- ls -a
+- To list more info about the files:
+- ls -l
+- To list files starting with "blen" in the directory you're in:
+- ls blen*
+- To list all the .jpg files in the directory you're in:
+- ls *.jpg
 ## Move & Rename
--Move/Rename file1.txt to file2.txt:
--mv file1.txt file2.txt
+- Move/Rename file1.txt to file2.txt:
+- mv file1.txt file2.txt
 
 ## Remove
--remove files permanent 
--rm file1.text
+- remove files permanent 
+- rm file1.text
 ## Create files 
- -creat any type of files 
--touch file1.text
+- creat any type of files 
+- touch file1.text
